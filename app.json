@@ -1,0 +1,26 @@
+{
+  "id": "5a5632d2-1b70-46bb-b6ce-7db777e9d434",
+  "name": "DataExchangeTools",
+  "publisher": "Navision.guru",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "17.0.0.0",
+  "application": "17.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://DataExchangeTools.com/help/",
+  "showMyCode": true,
+  "runtime": "6.0"
+}
